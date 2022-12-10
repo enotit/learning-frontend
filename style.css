@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(239, 239, 239);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    height: 100%;
+    background-color: #0f1c2c;
+    height: 72px;
+    display: flex;
+    color:white;
+}
+.logo {
+    margin-left: 2vw;
+    margin-top: 1.3vh;
+    height: 4vh;
+}
+.container-tasks{
+
+    font-size:20pt;
+    margin-left: 43vw;
+    margin-top: 1.7vh;    
+}
+.person{
+    text-align: right;
+    margin-left: 70vh;
+}
